@@ -18,9 +18,9 @@ The following tasks are accomplished by the deployment
   "GET /items/{id}
   "DELETE /items/{id}
   
-Step 5: Create an integration
+5: Create an integration
   Integration of API gateway with the created lambda functions 
   
-Step 6: Attach your integration to routes
+6: Attach your integration to routes
   Attach integrations to routes.
   
