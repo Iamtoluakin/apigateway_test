@@ -1,0 +1,94 @@
+{
+    "default-project": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "2"
+                    },
+                    "Name": {
+                        "S": "Gladys"
+                    },
+                    "State": {
+                        "S": "Minnesota"
+                    }                    
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "3"
+                    },
+                    "Name": {
+                        "S": "taiwo"
+                    },
+                    "State": {
+                        "S": "Minnesota"
+                    }                    
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "4"
+                    },
+                    "Name": {
+                        "S": "smd"
+                    },
+                    "State": {
+                        "S": "Missouri"
+                    }                    
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "5"
+                    },
+                    "Name": {
+                        "S": "James"
+                    },
+                    "State": {
+                        "S": "Arizona"
+                    }                    
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "6"
+                    },
+                    "Name": {
+                        "S": "Ann"
+                    },
+                    "State": {
+                        "S": "Minnesota"
+                    }                    
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "7"
+                    },
+                    "Name": {
+                        "S": "Michael"
+                    },
+                    "State": {
+                        "S": "Raleigh"
+                    }                    
+                }
+            }
+        }
+    ]
+}
